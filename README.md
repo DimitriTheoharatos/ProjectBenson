@@ -21,8 +21,6 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 `Project Benson.pptx` --> Presentation documenting our important findings. 
 
-`baseball_data_analysis.html` --> Exported .html file from the Python notebook
-
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:

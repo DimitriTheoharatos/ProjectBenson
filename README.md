@@ -19,7 +19,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 `MTA_EDA_ProjectBenson_Group 4.ipynb` --> The main python notebook that when executed will chronologically go through the entirety of our analysis. 
 
-`baseballdatabank-2017.1` --> Folder containing the data used in the exploration
+`Project Benson.pptx` --> Presentation documenting our important findings. 
 
 `baseball_data_analysis.html` --> Exported .html file from the Python notebook
 

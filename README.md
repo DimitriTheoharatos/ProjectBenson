@@ -27,12 +27,9 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
+
 ```bash
-ipython notebook boston_housing.ipynb
-```  
-or
-```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook MTA_EDA_ProjectBenson_Group 4.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
@@ -58,4 +55,5 @@ This will open the Jupyter Notebook software and project file in your browser.
  * slide presentation
  * visual and oral communication in group presentations
  * organized project repository
+
 
